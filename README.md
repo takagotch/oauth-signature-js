@@ -2,7 +2,7 @@
 ---
 https://github.com/bettiolo/oauth-signature-js
 
-```
+```sh
 npm install oauth-signature
 bower install oauth-signature
 
